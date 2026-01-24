@@ -1,0 +1,23 @@
+{
+  "name": "playwright_working_script",
+  "version": "1.0.0",
+  "description": "initial commit",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghassan1212/Playwright-Working-Scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ghassan1212/Playwright-Working-Scripts/issues"
+  },
+  "homepage": "https://github.com/ghassan1212/Playwright-Working-Scripts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.0.10"
+  }
+}
